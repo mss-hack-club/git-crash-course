@@ -14,7 +14,7 @@ a given feature in an isolated environment where you don't affect the main line.
 The `master` branch (sometimes called `main`) is normally the default branch in
 a repository which contains a usable product. You typically don't want to develop
 on the master branch; instead, develop on another branch and merge that branch
-into `master` (see merging below).
+into `master` (see merging.md).
 
 ## Creating a Branch
 
