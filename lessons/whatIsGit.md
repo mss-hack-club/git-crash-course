@@ -6,8 +6,8 @@ Git is what we call "version control system", or a "source control manager".
 
 - Set of collection of a set of files related to one another.
   - All the code required to run a project
-- In order to track history with git, you have to be in a git **repository**
-- You can make any file a git repository using the command:
+- In order to track history with Git, you have to be in a Git **repository**
+- You can make any file a Git repository using the command:
 
 ```sh
 git init
