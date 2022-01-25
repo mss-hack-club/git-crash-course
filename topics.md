@@ -12,8 +12,6 @@
 - Merging
   - Merge Conflicts
 - Remotes
-  - Managing Remotes
-  - Pushing
-  - Cloning
-  - Forking
+  - Managing Remotes (Pushing and Pulling)
+  - Cloning and Forking
   - Pull requests
